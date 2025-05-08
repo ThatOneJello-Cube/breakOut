@@ -1,2 +1,2 @@
 # breakOut
-a remake of a classic game
+#A remake of a classic game
